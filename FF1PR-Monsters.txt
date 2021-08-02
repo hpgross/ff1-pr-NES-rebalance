@@ -1,0 +1,2712 @@
+In comparing this and monster.txt, the missing information from monster.txt is resistance attribute and condition, # of attacks, attack bonus, attack attribute, drop rate, drop content, and battle script type .
+MP is listed but meaningless.
+
+Goblin
+Monster
+HP:8
+MP:0
+EXP Gained:6
+Gil Dropped:6
+Strength:0
+Vitality:0
+Agility:3
+Intelligence:1
+Spirit:0
+Magic:0
+Attack:4
+Defense:4
+Accuracy Rate:2
+Evasion Rate:6
+Magic Evasion Rate:16
+Critical Rate:1
+Luck:2
+Weight:0
+
+Goblin Guard
+Monster
+HP:16
+MP:0
+EXP Gained:18
+Gil Dropped:18
+Strength:0
+Vitality:0
+Agility:5
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:8
+Defense:6
+Accuracy Rate:4
+Evasion Rate:9
+Magic Evasion Rate:23
+Critical Rate:1
+Luck:2
+Weight:0
+
+Wolf
+Monster
+HP:20
+MP:0
+EXP Gained:24
+Gil Dropped:6
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:1
+Spirit:0
+Magic:0
+Attack:8
+Defense:0
+Accuracy Rate:5
+Evasion Rate:36
+Magic Evasion Rate:28
+Critical Rate:1
+Luck:2
+Weight:0
+
+Warg Wolf
+Monster
+HP:72
+MP:0
+EXP Gained:93
+Gil Dropped:22
+Strength:0
+Vitality:0
+Agility:27
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:14
+Defense:0
+Accuracy Rate:18
+Evasion Rate:54
+Magic Evasion Rate:46
+Critical Rate:1
+Luck:2
+Weight:0
+
+Werewolf
+Monster
+HP:68
+MP:0
+EXP Gained:135
+Gil Dropped:67
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:14
+Defense:6
+Accuracy Rate:17
+Evasion Rate:42
+Magic Evasion Rate:45
+Critical Rate:1
+Luck:2
+Weight:0
+
+Winter Wolf
+Monster
+HP:92
+MP:0
+EXP Gained:402
+Gil Dropped:200
+Strength:0
+Vitality:0
+Agility:27
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:25
+Defense:0
+Accuracy Rate:23
+Evasion Rate:54
+Magic Evasion Rate:55
+Critical Rate:1
+Luck:2
+Weight:0
+
+Lizard
+Monster
+HP:92
+MP:0
+EXP Gained:153
+Gil Dropped:50
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:18
+Defense:12
+Accuracy Rate:23
+Evasion Rate:24
+Magic Evasion Rate:55
+Critical Rate:10
+Luck:2
+Weight:0
+
+Fire Lizard
+Monster
+HP:296
+MP:0
+EXP Gained:2472
+Gil Dropped:1200
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:31
+Defense:18
+Accuracy Rate:74
+Evasion Rate:36
+Magic Evasion Rate:143
+Critical Rate:1
+Luck:2
+Weight:0
+
+Basilisk
+Monster
+HP:196
+MP:0
+EXP Gained:1977
+Gil Dropped:658
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:30
+Defense:20
+Accuracy Rate:54
+Evasion Rate:24
+Magic Evasion Rate:91
+Critical Rate:1
+Luck:2
+Weight:0
+
+Hill Gigas
+Monster
+HP:240
+MP:0
+EXP Gained:879
+Gil Dropped:879
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:5
+Spirit:0
+Magic:0
+Attack:38
+Defense:12
+Accuracy Rate:60
+Evasion Rate:48
+Magic Evasion Rate:120
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ice Gigas
+Monster
+HP:336
+MP:0
+EXP Gained:1752
+Gil Dropped:1752
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:10
+Spirit:0
+Magic:0
+Attack:60
+Defense:16
+Accuracy Rate:78
+Evasion Rate:48
+Magic Evasion Rate:150
+Critical Rate:1
+Luck:2
+Weight:0
+
+Fire Gigas
+Monster
+HP:300
+MP:0
+EXP Gained:1506
+Gil Dropped:1506
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:73
+Defense:20
+Accuracy Rate:83
+Evasion Rate:48
+Magic Evasion Rate:135
+Critical Rate:1
+Luck:2
+Weight:0
+
+Sahagin
+Monster
+HP:28
+MP:0
+EXP Gained:30
+Gil Dropped:30
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:4
+Spirit:0
+Magic:0
+Attack:10
+Defense:4
+Accuracy Rate:7
+Evasion Rate:72
+Magic Evasion Rate:28
+Critical Rate:1
+Luck:2
+Weight:0
+
+Sahagin Chief
+Monster
+HP:64
+MP:0
+EXP Gained:105
+Gil Dropped:105
+Strength:0
+Vitality:0
+Agility:39
+Intelligence:7
+Spirit:0
+Magic:0
+Attack:15
+Defense:8
+Accuracy Rate:16
+Evasion Rate:78
+Magic Evasion Rate:46
+Critical Rate:1
+Luck:2
+Weight:0
+
+Sahagin Prince
+Monster
+HP:204
+MP:0
+EXP Gained:882
+Gil Dropped:882
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:15
+Spirit:0
+Magic:0
+Attack:47
+Defense:20
+Accuracy Rate:51
+Evasion Rate:96
+Magic Evasion Rate:101
+Critical Rate:1
+Luck:2
+Weight:0
+
+Pirate
+Monster
+HP:24
+MP:0
+EXP Gained:40
+Gil Dropped:40
+Strength:0
+Vitality:0
+Agility:6
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:10
+Defense:0
+Accuracy Rate:2
+Evasion Rate:12
+Magic Evasion Rate:35
+Critical Rate:1
+Luck:2
+Weight:0
+
+Buccaneer
+Monster
+HP:50
+MP:0
+EXP Gained:60
+Gil Dropped:120
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:14
+Defense:6
+Accuracy Rate:13
+Evasion Rate:24
+Magic Evasion Rate:37
+Critical Rate:1
+Luck:2
+Weight:0
+
+Shark
+Monster
+HP:120
+MP:0
+EXP Gained:267
+Gil Dropped:66
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:22
+Defense:0
+Accuracy Rate:30
+Evasion Rate:72
+Magic Evasion Rate:70
+Critical Rate:1
+Luck:2
+Weight:0
+
+White Shark
+Monster
+HP:344
+MP:0
+EXP Gained:2361
+Gil Dropped:600
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:50
+Defense:8
+Accuracy Rate:86
+Evasion Rate:72
+Magic Evasion Rate:170
+Critical Rate:1
+Luck:2
+Weight:0
+
+Bigeyes
+Monster
+HP:10
+MP:0
+EXP Gained:42
+Gil Dropped:10
+Strength:0
+Vitality:0
+Agility:42
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:4
+Defense:0
+Accuracy Rate:2
+Evasion Rate:84
+Magic Evasion Rate:14
+Critical Rate:1
+Luck:2
+Weight:0
+
+Deepeyes
+Monster
+HP:304
+MP:0
+EXP Gained:3591
+Gil Dropped:3591
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:0
+Spirit:0
+Magic:0
+Attack:30
+Defense:16
+Accuracy Rate:76
+Evasion Rate:24
+Magic Evasion Rate:156
+Critical Rate:1
+Luck:2
+Weight:0
+
+Skeleton
+Monster
+HP:10
+MP:0
+EXP Gained:9
+Gil Dropped:3
+Strength:0
+Vitality:0
+Agility:6
+Intelligence:0
+Spirit:0
+Magic:0
+Attack:10
+Defense:0
+Accuracy Rate:2
+Evasion Rate:12
+Magic Evasion Rate:17
+Critical Rate:1
+Luck:2
+Weight:0
+
+Bloodbones
+Monster
+HP:144
+MP:0
+EXP Gained:378
+Gil Dropped:378
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:26
+Defense:12
+Accuracy Rate:36
+Evasion Rate:42
+Magic Evasion Rate:76
+Critical Rate:1
+Luck:2
+Weight:0
+
+Gigas Worm
+Monster
+HP:56
+MP:0
+EXP Gained:63
+Gil Dropped:15
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:9
+Spirit:0
+Magic:0
+Attack:17
+Defense:8
+Accuracy Rate:14
+Evasion Rate:24
+Magic Evasion Rate:40
+Critical Rate:1
+Luck:2
+Weight:0
+
+Crawler
+Monster
+HP:84
+MP:0
+EXP Gained:186
+Gil Dropped:200
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:5
+Spirit:0
+Magic:0
+Attack:1
+Defense:8
+Accuracy Rate:21
+Evasion Rate:42
+Magic Evasion Rate:51
+Critical Rate:1
+Luck:2
+Weight:0
+
+Hyenadon
+Monster
+HP:120
+MP:0
+EXP Gained:288
+Gil Dropped:72
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:22
+Defense:4
+Accuracy Rate:30
+Evasion Rate:48
+Magic Evasion Rate:76
+Critical Rate:1
+Luck:2
+Weight:0
+
+Hellhound
+Monster
+HP:192
+MP:0
+EXP Gained:1182
+Gil Dropped:600
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:13
+Spirit:0
+Magic:0
+Attack:30
+Defense:8
+Accuracy Rate:48
+Evasion Rate:48
+Magic Evasion Rate:103
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ogre
+Monster
+HP:100
+MP:0
+EXP Gained:195
+Gil Dropped:195
+Strength:0
+Vitality:0
+Agility:9
+Intelligence:4
+Spirit:0
+Magic:0
+Attack:18
+Defense:10
+Accuracy Rate:25
+Evasion Rate:18
+Magic Evasion Rate:65
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ogre Chief
+Monster
+HP:132
+MP:0
+EXP Gained:282
+Gil Dropped:300
+Strength:0
+Vitality:0
+Agility:15
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:23
+Defense:14
+Accuracy Rate:33
+Evasion Rate:30
+Magic Evasion Rate:71
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ogre Mage
+Monster
+HP:144
+MP:0
+EXP Gained:723
+Gil Dropped:723
+Strength:0
+Vitality:0
+Agility:27
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:23
+Defense:10
+Accuracy Rate:36
+Evasion Rate:54
+Magic Evasion Rate:80
+Critical Rate:1
+Luck:2
+Weight:0
+
+Cobra
+Monster
+HP:56
+MP:0
+EXP Gained:123
+Gil Dropped:50
+Strength:0
+Vitality:0
+Agility:15
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:6
+Defense:6
+Accuracy Rate:14
+Evasion Rate:30
+Magic Evasion Rate:46
+Critical Rate:1
+Luck:2
+Weight:0
+
+Anaconda
+Monster
+HP:80
+MP:0
+EXP Gained:165
+Gil Dropped:50
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:11
+Spirit:0
+Magic:0
+Attack:22
+Defense:10
+Accuracy Rate:20
+Evasion Rate:36
+Magic Evasion Rate:56
+Critical Rate:31
+Luck:2
+Weight:0
+
+Sea Snake
+Monster
+HP:224
+MP:0
+EXP Gained:957
+Gil Dropped:600
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:21
+Spirit:0
+Magic:0
+Attack:35
+Defense:12
+Accuracy Rate:56
+Evasion Rate:48
+Magic Evasion Rate:116
+Critical Rate:0
+Luck:2
+Weight:0
+
+Scorpion
+Monster
+HP:84
+MP:0
+EXP Gained:225
+Gil Dropped:70
+Strength:0
+Vitality:0
+Agility:27
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:22
+Defense:10
+Accuracy Rate:21
+Evasion Rate:54
+Magic Evasion Rate:55
+Critical Rate:1
+Luck:2
+Weight:0
+
+Sea Scorpion
+Monster
+HP:148
+MP:0
+EXP Gained:639
+Gil Dropped:300
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:11
+Spirit:0
+Magic:0
+Attack:35
+Defense:18
+Accuracy Rate:37
+Evasion Rate:60
+Magic Evasion Rate:85
+Critical Rate:1
+Luck:2
+Weight:0
+
+Minotaur
+Monster
+HP:164
+MP:0
+EXP Gained:489
+Gil Dropped:489
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:22
+Defense:4
+Accuracy Rate:41
+Evasion Rate:48
+Magic Evasion Rate:95
+Critical Rate:1
+Luck:2
+Weight:0
+
+Minotaur Zombie
+Monster
+HP:224
+MP:0
+EXP Gained:1050
+Gil Dropped:1050
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:1
+Spirit:0
+Magic:0
+Attack:40
+Defense:14
+Accuracy Rate:56
+Evasion Rate:36
+Magic Evasion Rate:116
+Critical Rate:1
+Luck:2
+Weight:0
+
+Troll
+Monster
+HP:184
+MP:0
+EXP Gained:621
+Gil Dropped:621
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:24
+Defense:12
+Accuracy Rate:46
+Evasion Rate:48
+Magic Evasion Rate:100
+Critical Rate:1
+Luck:2
+Weight:0
+
+Sea Troll
+Monster
+HP:216
+MP:0
+EXP Gained:852
+Gil Dropped:852
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:10
+Spirit:0
+Magic:0
+Attack:40
+Defense:20
+Accuracy Rate:54
+Evasion Rate:48
+Magic Evasion Rate:110
+Critical Rate:1
+Luck:2
+Weight:0
+
+Shadow
+Monster
+HP:50
+MP:0
+EXP Gained:90
+Gil Dropped:45
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:10
+Defense:0
+Accuracy Rate:13
+Evasion Rate:36
+Magic Evasion Rate:37
+Critical Rate:1
+Luck:2
+Weight:0
+
+Wraith
+Monster
+HP:86
+MP:0
+EXP Gained:231
+Gil Dropped:231
+Strength:0
+Vitality:0
+Agility:45
+Intelligence:18
+Spirit:0
+Magic:0
+Attack:22
+Defense:4
+Accuracy Rate:22
+Evasion Rate:90
+Magic Evasion Rate:52
+Critical Rate:1
+Luck:2
+Weight:0
+
+Specter
+Monster
+HP:114
+MP:0
+EXP Gained:432
+Gil Dropped:432
+Strength:0
+Vitality:0
+Agility:54
+Intelligence:25
+Spirit:0
+Magic:0
+Attack:40
+Defense:12
+Accuracy Rate:29
+Evasion Rate:108
+Magic Evasion Rate:67
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ghost
+Monster
+HP:180
+MP:0
+EXP Gained:990
+Gil Dropped:990
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:30
+Spirit:0
+Magic:0
+Attack:93
+Defense:30
+Accuracy Rate:45
+Evasion Rate:36
+Magic Evasion Rate:85
+Critical Rate:1
+Luck:2
+Weight:0
+
+Zombie
+Monster
+HP:20
+MP:0
+EXP Gained:24
+Gil Dropped:12
+Strength:0
+Vitality:0
+Agility:3
+Intelligence:0
+Spirit:0
+Magic:0
+Attack:10
+Defense:0
+Accuracy Rate:5
+Evasion Rate:6
+Magic Evasion Rate:25
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ghoul
+Monster
+HP:48
+MP:0
+EXP Gained:93
+Gil Dropped:50
+Strength:0
+Vitality:0
+Agility:6
+Intelligence:1
+Spirit:0
+Magic:0
+Attack:8
+Defense:6
+Accuracy Rate:12
+Evasion Rate:12
+Magic Evasion Rate:36
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ghast
+Monster
+HP:56
+MP:0
+EXP Gained:117
+Gil Dropped:117
+Strength:0
+Vitality:0
+Agility:23
+Intelligence:2
+Spirit:0
+Magic:0
+Attack:8
+Defense:10
+Accuracy Rate:14
+Evasion Rate:46
+Magic Evasion Rate:40
+Critical Rate:1
+Luck:2
+Weight:0
+
+Wight
+Monster
+HP:52
+MP:0
+EXP Gained:150
+Gil Dropped:150
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:20
+Defense:12
+Accuracy Rate:13
+Evasion Rate:42
+Magic Evasion Rate:45
+Critical Rate:1
+Luck:2
+Weight:0
+
+Purple Worm
+Monster
+HP:448
+MP:0
+EXP Gained:4344
+Gil Dropped:1000
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:65
+Defense:10
+Accuracy Rate:112
+Evasion Rate:36
+Magic Evasion Rate:200
+Critical Rate:10
+Luck:2
+Weight:0
+
+Sand Worm
+Monster
+HP:200
+MP:0
+EXP Gained:2683
+Gil Dropped:900
+Strength:0
+Vitality:0
+Agility:31
+Intelligence:18
+Spirit:0
+Magic:0
+Attack:46
+Defense:14
+Accuracy Rate:50
+Evasion Rate:62
+Magic Evasion Rate:103
+Critical Rate:1
+Luck:2
+Weight:0
+
+Lava Worm
+Monster
+HP:280
+MP:0
+EXP Gained:1671
+Gil Dropped:400
+Strength:0
+Vitality:0
+Agility:2
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:50
+Defense:31
+Accuracy Rate:70
+Evasion Rate:4
+Magic Evasion Rate:143
+Critical Rate:1
+Luck:2
+Weight:0
+
+Evil Eye
+Monster
+HP:162
+MP:0
+EXP Gained:3225
+Gil Dropped:3225
+Strength:0
+Vitality:0
+Agility:6
+Intelligence:20
+Spirit:0
+Magic:0
+Attack:30
+Defense:30
+Accuracy Rate:42
+Evasion Rate:12
+Magic Evasion Rate:92
+Critical Rate:1
+Luck:2
+Weight:0
+
+Death Eye
+Monster
+HP:360
+MP:0
+EXP Gained:1
+Gil Dropped:1
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:35
+Spirit:0
+Magic:0
+Attack:120
+Defense:60
+Accuracy Rate:150
+Evasion Rate:24
+Magic Evasion Rate:160
+Critical Rate:40
+Luck:2
+Weight:0
+
+Medusa
+Monster
+HP:68
+MP:0
+EXP Gained:699
+Gil Dropped:699
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:20
+Defense:10
+Accuracy Rate:17
+Evasion Rate:36
+Magic Evasion Rate:55
+Critical Rate:1
+Luck:2
+Weight:0
+
+Earth Medusa
+Monster
+HP:96
+MP:0
+EXP Gained:1218
+Gil Dropped:1218
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:11
+Defense:12
+Accuracy Rate:24
+Evasion Rate:72
+Magic Evasion Rate:70
+Critical Rate:1
+Luck:2
+Weight:0
+
+Weretiger
+Monster
+HP:160
+MP:0
+EXP Gained:780
+Gil Dropped:780
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:30
+Defense:16
+Accuracy Rate:40
+Evasion Rate:48
+Magic Evasion Rate:93
+Critical Rate:1
+Luck:2
+Weight:0
+
+Rakshasa
+Monster
+HP:110
+MP:0
+EXP Gained:603
+Gil Dropped:800
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:15
+Spirit:0
+Magic:0
+Attack:20
+Defense:30
+Accuracy Rate:28
+Evasion Rate:60
+Magic Evasion Rate:62
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ankheg
+Monster
+HP:222
+MP:0
+EXP Gained:1194
+Gil Dropped:300
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:10
+Spirit:0
+Magic:0
+Attack:39
+Defense:20
+Accuracy Rate:56
+Evasion Rate:48
+Magic Evasion Rate:116
+Critical Rate:1
+Luck:2
+Weight:0
+
+Remorazz
+Monster
+HP:320
+MP:0
+EXP Gained:2244
+Gil Dropped:1000
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:15
+Spirit:0
+Magic:0
+Attack:73
+Defense:24
+Accuracy Rate:80
+Evasion Rate:48
+Magic Evasion Rate:185
+Critical Rate:1
+Luck:2
+Weight:0
+
+Lesser Tiger
+Monster
+HP:132
+MP:0
+EXP Gained:438
+Gil Dropped:108
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:13
+Spirit:0
+Magic:0
+Attack:22
+Defense:8
+Accuracy Rate:33
+Evasion Rate:48
+Magic Evasion Rate:85
+Critical Rate:25
+Luck:2
+Weight:0
+
+Sabertooth
+Monster
+HP:200
+MP:0
+EXP Gained:843
+Gil Dropped:500
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:18
+Spirit:0
+Magic:0
+Attack:24
+Defense:8
+Accuracy Rate:50
+Evasion Rate:42
+Magic Evasion Rate:106
+Critical Rate:70
+Luck:2
+Weight:0
+
+Vampire
+Monster
+HP:280
+MP:0
+EXP Gained:1200
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:26
+Spirit:0
+Magic:0
+Attack:76
+Defense:26
+Accuracy Rate:39
+Evasion Rate:72
+Magic Evasion Rate:75
+Critical Rate:1
+Luck:22
+Weight:0
+
+Vampire Lord
+Monster
+HP:300
+MP:0
+EXP Gained:2385
+Gil Dropped:3000
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:34
+Spirit:0
+Magic:0
+Attack:90
+Defense:28
+Accuracy Rate:42
+Evasion Rate:72
+Magic Evasion Rate:84
+Critical Rate:1
+Luck:2
+Weight:0
+
+Gargoyle
+Monster
+HP:80
+MP:0
+EXP Gained:132
+Gil Dropped:80
+Strength:0
+Vitality:0
+Agility:23
+Intelligence:11
+Spirit:0
+Magic:0
+Attack:12
+Defense:8
+Accuracy Rate:20
+Evasion Rate:45
+Magic Evasion Rate:53
+Critical Rate:1
+Luck:2
+Weight:0
+
+Horned Devil
+Monster
+HP:94
+MP:0
+EXP Gained:387
+Gil Dropped:387
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:17
+Spirit:0
+Magic:0
+Attack:10
+Defense:32
+Accuracy Rate:24
+Evasion Rate:72
+Magic Evasion Rate:127
+Critical Rate:1
+Luck:2
+Weight:0
+
+Earth Elemental
+Monster
+HP:288
+MP:0
+EXP Gained:1536
+Gil Dropped:768
+Strength:0
+Vitality:0
+Agility:9
+Intelligence:18
+Spirit:0
+Magic:0
+Attack:66
+Defense:20
+Accuracy Rate:72
+Evasion Rate:18
+Magic Evasion Rate:130
+Critical Rate:1
+Luck:2
+Weight:0
+
+Fire Elemental
+Monster
+HP:276
+MP:0
+EXP Gained:1620
+Gil Dropped:800
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:20
+Spirit:0
+Magic:0
+Attack:50
+Defense:20
+Accuracy Rate:69
+Evasion Rate:42
+Magic Evasion Rate:130
+Critical Rate:1
+Luck:2
+Weight:0
+
+White Dragon
+Monster
+HP:200
+MP:0
+EXP Gained:1701
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:60
+Intelligence:25
+Spirit:0
+Magic:0
+Attack:53
+Defense:8
+Accuracy Rate:50
+Evasion Rate:120
+Magic Evasion Rate:196
+Critical Rate:1
+Luck:2
+Weight:0
+
+Red Dragon
+Monster
+HP:248
+MP:0
+EXP Gained:2904
+Gil Dropped:4000
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:20
+Spirit:0
+Magic:0
+Attack:75
+Defense:30
+Accuracy Rate:62
+Evasion Rate:96
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:2
+Weight:0
+
+Dragon Zombie
+Monster
+HP:268
+MP:0
+EXP Gained:2331
+Gil Dropped:999
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:26
+Spirit:0
+Magic:0
+Attack:56
+Defense:30
+Accuracy Rate:67
+Evasion Rate:24
+Magic Evasion Rate:135
+Critical Rate:1
+Luck:2
+Weight:0
+
+Green Slime
+Monster
+HP:24
+MP:0
+EXP Gained:84
+Gil Dropped:20
+Strength:0
+Vitality:0
+Agility:0
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:1
+Defense:255
+Accuracy Rate:1
+Evasion Rate:0
+Magic Evasion Rate:36
+Critical Rate:1
+Luck:2
+Weight:0
+
+Gray Ooze
+Monster
+HP:76
+MP:0
+EXP Gained:255
+Gil Dropped:70
+Strength:0
+Vitality:0
+Agility:2
+Intelligence:0
+Spirit:0
+Magic:0
+Attack:30
+Defense:7
+Accuracy Rate:19
+Evasion Rate:4
+Magic Evasion Rate:55
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ochre Jelly
+Monster
+HP:76
+MP:0
+EXP Gained:252
+Gil Dropped:70
+Strength:0
+Vitality:0
+Agility:3
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:32
+Defense:6
+Accuracy Rate:19
+Evasion Rate:6
+Magic Evasion Rate:55
+Critical Rate:1
+Luck:2
+Weight:0
+
+Black Flan
+Monster
+HP:156
+MP:0
+EXP Gained:1101
+Gil Dropped:900
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:6
+Spirit:0
+Magic:0
+Attack:49
+Defense:255
+Accuracy Rate:39
+Evasion Rate:24
+Magic Evasion Rate:85
+Critical Rate:1
+Luck:2
+Weight:0
+
+Black Widow
+Monster
+HP:28
+MP:0
+EXP Gained:30
+Gil Dropped:8
+Strength:0
+Vitality:0
+Agility:15
+Intelligence:10
+Spirit:0
+Magic:0
+Attack:10
+Defense:0
+Accuracy Rate:7
+Evasion Rate:30
+Magic Evasion Rate:28
+Critical Rate:1
+Luck:2
+Weight:0
+
+Tarantula
+Monster
+HP:64
+MP:0
+EXP Gained:141
+Gil Dropped:50
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:3
+Spirit:0
+Magic:0
+Attack:5
+Defense:12
+Accuracy Rate:16
+Evasion Rate:24
+Magic Evasion Rate:46
+Critical Rate:1
+Luck:2
+Weight:0
+
+Manticore
+Monster
+HP:164
+MP:0
+EXP Gained:1317
+Gil Dropped:650
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:22
+Defense:8
+Accuracy Rate:41
+Evasion Rate:72
+Magic Evasion Rate:95
+Critical Rate:1
+Luck:2
+Weight:0
+
+Sphinx
+Monster
+HP:228
+MP:0
+EXP Gained:1160
+Gil Dropped:1160
+Strength:0
+Vitality:0
+Agility:60
+Intelligence:32
+Spirit:0
+Magic:0
+Attack:23
+Defense:12
+Accuracy Rate:57
+Evasion Rate:120
+Magic Evasion Rate:115
+Critical Rate:1
+Luck:2
+Weight:0
+
+Baretta
+Monster
+HP:256
+MP:0
+EXP Gained:1428
+Gil Dropped:300
+Strength:0
+Vitality:0
+Agility:28
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:60
+Defense:38
+Accuracy Rate:64
+Evasion Rate:56
+Magic Evasion Rate:130
+Critical Rate:1
+Luck:2
+Weight:0
+
+Desert Baretta
+Monster
+HP:352
+MP:0
+EXP Gained:2610
+Gil Dropped:1
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:98
+Defense:48
+Accuracy Rate:88
+Evasion Rate:48
+Magic Evasion Rate:156
+Critical Rate:1
+Luck:2
+Weight:0
+
+Mummy
+Monster
+HP:80
+MP:0
+EXP Gained:300
+Gil Dropped:300
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:30
+Defense:20
+Accuracy Rate:20
+Evasion Rate:24
+Magic Evasion Rate:60
+Critical Rate:1
+Luck:2
+Weight:0
+
+King Mummy
+Monster
+HP:188
+MP:0
+EXP Gained:984
+Gil Dropped:1000
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:43
+Defense:24
+Accuracy Rate:47
+Evasion Rate:24
+Magic Evasion Rate:95
+Critical Rate:1
+Luck:2
+Weight:0
+
+Cockatrice
+Monster
+HP:50
+MP:0
+EXP Gained:186
+Gil Dropped:200
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:8
+Spirit:0
+Magic:0
+Attack:1
+Defense:4
+Accuracy Rate:10
+Evasion Rate:72
+Magic Evasion Rate:47
+Critical Rate:1
+Luck:2
+Weight:0
+
+Pyrolisk
+Monster
+HP:44
+MP:0
+EXP Gained:423
+Gil Dropped:500
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:15
+Spirit:0
+Magic:0
+Attack:20
+Defense:4
+Accuracy Rate:11
+Evasion Rate:72
+Magic Evasion Rate:45
+Critical Rate:1
+Luck:2
+Weight:0
+
+Wyvern
+Monster
+HP:212
+MP:0
+EXP Gained:1173
+Gil Dropped:50
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:30
+Defense:12
+Accuracy Rate:53
+Evasion Rate:96
+Magic Evasion Rate:115
+Critical Rate:1
+Luck:2
+Weight:0
+
+Wyrm
+Monster
+HP:260
+MP:0
+EXP Gained:1218
+Gil Dropped:502
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:40
+Defense:22
+Accuracy Rate:65
+Evasion Rate:60
+Magic Evasion Rate:131
+Critical Rate:1
+Luck:2
+Weight:0
+
+Allosaurus
+Monster
+HP:480
+MP:0
+EXP Gained:3387
+Gil Dropped:502
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:10
+Spirit:0
+Magic:0
+Attack:65
+Defense:10
+Accuracy Rate:133
+Evasion Rate:60
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:2
+Weight:0
+
+Tyrannosaur
+Monster
+HP:600
+MP:0
+EXP Gained:7200
+Gil Dropped:600
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:115
+Defense:10
+Accuracy Rate:144
+Evasion Rate:60
+Magic Evasion Rate:200
+Critical Rate:30
+Luck:2
+Weight:0
+
+Piranha
+Monster
+HP:92
+MP:0
+EXP Gained:240
+Gil Dropped:20
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:10
+Spirit:0
+Magic:0
+Attack:22
+Defense:0
+Accuracy Rate:23
+Evasion Rate:72
+Magic Evasion Rate:68
+Critical Rate:1
+Luck:2
+Weight:0
+
+Red Piranha
+Monster
+HP:172
+MP:0
+EXP Gained:546
+Gil Dropped:46
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:13
+Spirit:0
+Magic:0
+Attack:37
+Defense:20
+Accuracy Rate:43
+Evasion Rate:72
+Magic Evasion Rate:83
+Critical Rate:1
+Luck:2
+Weight:0
+
+Crocodile
+Monster
+HP:184
+MP:0
+EXP Gained:816
+Gil Dropped:900
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:9
+Spirit:0
+Magic:0
+Attack:42
+Defense:16
+Accuracy Rate:46
+Evasion Rate:48
+Magic Evasion Rate:103
+Critical Rate:1
+Luck:2
+Weight:0
+
+White Croc
+Monster
+HP:288
+MP:0
+EXP Gained:1890
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:56
+Defense:20
+Accuracy Rate:72
+Evasion Rate:48
+Magic Evasion Rate:143
+Critical Rate:1
+Luck:2
+Weight:0
+
+Ochu
+Monster
+HP:208
+MP:0
+EXP Gained:1224
+Gil Dropped:102
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:18
+Spirit:0
+Magic:0
+Attack:20
+Defense:24
+Accuracy Rate:52
+Evasion Rate:24
+Magic Evasion Rate:116
+Critical Rate:1
+Luck:2
+Weight:0
+
+Neochu
+Monster
+HP:344
+MP:0
+EXP Gained:3189
+Gil Dropped:500
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:20
+Spirit:0
+Magic:0
+Attack:35
+Defense:32
+Accuracy Rate:86
+Evasion Rate:24
+Magic Evasion Rate:170
+Critical Rate:1
+Luck:2
+Weight:0
+
+Hydra
+Monster
+HP:212
+MP:0
+EXP Gained:915
+Gil Dropped:150
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:14
+Spirit:0
+Magic:0
+Attack:30
+Defense:14
+Accuracy Rate:53
+Evasion Rate:36
+Magic Evasion Rate:116
+Critical Rate:1
+Luck:2
+Weight:0
+
+Fire Hydra
+Monster
+HP:182
+MP:0
+EXP Gained:1215
+Gil Dropped:400
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:20
+Defense:14
+Accuracy Rate:46
+Evasion Rate:36
+Magic Evasion Rate:103
+Critical Rate:1
+Luck:2
+Weight:0
+
+Guardian
+Monster
+HP:200
+MP:0
+EXP Gained:1224
+Gil Dropped:400
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:25
+Defense:40
+Accuracy Rate:50
+Evasion Rate:72
+Magic Evasion Rate:110
+Critical Rate:1
+Luck:2
+Weight:0
+
+Soldier
+Monster
+HP:400
+MP:0
+EXP Gained:4000
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:28
+Spirit:0
+Magic:0
+Attack:102
+Defense:48
+Accuracy Rate:90
+Evasion Rate:96
+Magic Evasion Rate:160
+Critical Rate:1
+Luck:2
+Weight:0
+
+Water Elemental
+Monster
+HP:300
+MP:0
+EXP Gained:1962
+Gil Dropped:800
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:32
+Spirit:0
+Magic:0
+Attack:69
+Defense:20
+Accuracy Rate:68
+Evasion Rate:72
+Magic Evasion Rate:130
+Critical Rate:1
+Luck:2
+Weight:0
+
+Air Elemental
+Monster
+HP:358
+MP:0
+EXP Gained:1614
+Gil Dropped:807
+Strength:0
+Vitality:0
+Agility:72
+Intelligence:40
+Spirit:0
+Magic:0
+Attack:53
+Defense:4
+Accuracy Rate:62
+Evasion Rate:144
+Magic Evasion Rate:130
+Critical Rate:1
+Luck:2
+Weight:0
+
+Water Naga
+Monster
+HP:356
+MP:0
+EXP Gained:2355
+Gil Dropped:2355
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:25
+Spirit:0
+Magic:0
+Attack:9
+Defense:8
+Accuracy Rate:71
+Evasion Rate:72
+Magic Evasion Rate:116
+Critical Rate:1
+Luck:2
+Weight:0
+
+Spirit Naga
+Monster
+HP:420
+MP:0
+EXP Gained:3489
+Gil Dropped:4000
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:32
+Spirit:0
+Magic:0
+Attack:7
+Defense:16
+Accuracy Rate:88
+Evasion Rate:48
+Magic Evasion Rate:143
+Critical Rate:1
+Luck:2
+Weight:0
+
+Chimera
+Monster
+HP:300
+MP:0
+EXP Gained:2064
+Gil Dropped:2500
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:30
+Defense:20
+Accuracy Rate:60
+Evasion Rate:72
+Magic Evasion Rate:130
+Critical Rate:1
+Luck:2
+Weight:0
+
+Rhyos
+Monster
+HP:350
+MP:0
+EXP Gained:4584
+Gil Dropped:5000
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:30
+Spirit:0
+Magic:0
+Attack:40
+Defense:18
+Accuracy Rate:70
+Evasion Rate:60
+Magic Evasion Rate:143
+Critical Rate:1
+Luck:2
+Weight:0
+
+Piscodemon
+Monster
+HP:84
+MP:0
+EXP Gained:276
+Gil Dropped:300
+Strength:0
+Vitality:0
+Agility:33
+Intelligence:18
+Spirit:0
+Magic:0
+Attack:30
+Defense:16
+Accuracy Rate:21
+Evasion Rate:66
+Magic Evasion Rate:98
+Critical Rate:1
+Luck:2
+Weight:0
+
+Mindflayer
+Monster
+HP:112
+MP:0
+EXP Gained:822
+Gil Dropped:999
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:26
+Spirit:0
+Magic:0
+Attack:1
+Defense:12
+Accuracy Rate:28
+Evasion Rate:48
+Magic Evasion Rate:187
+Critical Rate:1
+Luck:2
+Weight:0
+
+Garland
+BOSS
+HP:212
+MP:0
+EXP Gained:130
+Gil Dropped:250
+Strength:0
+Vitality:0
+Agility:6
+Intelligence:12
+Spirit:0
+Magic:0
+Attack:15
+Defense:8
+Accuracy Rate:27
+Evasion Rate:12
+Magic Evasion Rate:64
+Critical Rate:1
+Luck:22
+Weight:0
+
+Green Dragon
+Monster
+HP:352
+MP:0
+EXP Gained:4068
+Gil Dropped:5000
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:72
+Defense:16
+Accuracy Rate:68
+Evasion Rate:96
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:2
+Weight:0
+
+Blue Dragon
+Monster
+HP:454
+MP:0
+EXP Gained:3274
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:28
+Spirit:0
+Magic:0
+Attack:92
+Defense:20
+Accuracy Rate:86
+Evasion Rate:96
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:2
+Weight:0
+
+Clay Golem
+Monster
+HP:176
+MP:0
+EXP Gained:1257
+Gil Dropped:800
+Strength:0
+Vitality:0
+Agility:14
+Intelligence:16
+Spirit:0
+Magic:0
+Attack:64
+Defense:7
+Accuracy Rate:44
+Evasion Rate:28
+Magic Evasion Rate:93
+Critical Rate:1
+Luck:2
+Weight:0
+
+Stone Golem
+Monster
+HP:200
+MP:0
+EXP Gained:2385
+Gil Dropped:1000
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:21
+Spirit:0
+Magic:0
+Attack:70
+Defense:16
+Accuracy Rate:50
+Evasion Rate:24
+Magic Evasion Rate:110
+Critical Rate:1
+Luck:2
+Weight:0
+
+Iron Golem
+Monster
+HP:304
+MP:0
+EXP Gained:6717
+Gil Dropped:3000
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:26
+Spirit:0
+Magic:0
+Attack:93
+Defense:100
+Accuracy Rate:76
+Evasion Rate:24
+Magic Evasion Rate:143
+Critical Rate:1
+Luck:2
+Weight:0
+
+Black Knight
+Monster
+HP:260
+MP:0
+EXP Gained:1263
+Gil Dropped:1800
+Strength:0
+Vitality:0
+Agility:18
+Intelligence:20
+Spirit:0
+Magic:0
+Attack:44
+Defense:38
+Accuracy Rate:65
+Evasion Rate:36
+Magic Evasion Rate:135
+Critical Rate:1
+Luck:2
+Weight:0
+
+Death Knight
+Monster
+HP:190
+MP:0
+EXP Gained:2700
+Gil Dropped:3000
+Strength:0
+Vitality:0
+Agility:21
+Intelligence:28
+Spirit:0
+Magic:0
+Attack:55
+Defense:32
+Accuracy Rate:48
+Evasion Rate:42
+Magic Evasion Rate:173
+Critical Rate:1
+Luck:2
+Weight:0
+
+Astos
+BOSS
+HP:420
+MP:0
+EXP Gained:2250
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:39
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:30
+Defense:18
+Accuracy Rate:42
+Evasion Rate:78
+Magic Evasion Rate:170
+Critical Rate:1
+Luck:22
+Weight:0
+
+Dark Wizard
+Monster
+HP:105
+MP:0
+EXP Gained:1095
+Gil Dropped:1095
+Strength:0
+Vitality:0
+Agility:39
+Intelligence:24
+Spirit:0
+Magic:0
+Attack:26
+Defense:40
+Accuracy Rate:27
+Evasion Rate:78
+Magic Evasion Rate:170
+Critical Rate:1
+Luck:2
+Weight:0
+
+Dark Fighter
+Monster
+HP:200
+MP:0
+EXP Gained:3420
+Gil Dropped:3420
+Strength:0
+Vitality:0
+Agility:45
+Intelligence:34
+Spirit:0
+Magic:0
+Attack:40
+Defense:38
+Accuracy Rate:45
+Evasion Rate:90
+Magic Evasion Rate:186
+Critical Rate:1
+Luck:2
+Weight:0
+
+Crazy Horse
+Monster
+HP:64
+MP:0
+EXP Gained:63
+Gil Dropped:15
+Strength:0
+Vitality:0
+Agility:11
+Intelligence:4
+Spirit:0
+Magic:0
+Attack:10
+Defense:2
+Accuracy Rate:16
+Evasion Rate:22
+Magic Evasion Rate:40
+Critical Rate:1
+Luck:2
+Weight:0
+
+Nightmare
+Monster
+HP:200
+MP:0
+EXP Gained:1272
+Gil Dropped:700
+Strength:0
+Vitality:0
+Agility:66
+Intelligence:20
+Spirit:0
+Magic:0
+Attack:30
+Defense:24
+Accuracy Rate:50
+Evasion Rate:132
+Magic Evasion Rate:100
+Critical Rate:1
+Luck:2
+Weight:0
+
+Warmech
+Monster
+HP:2000
+MP:0
+EXP Gained:32000
+Gil Dropped:32000
+Strength:0
+Vitality:0
+Agility:48
+Intelligence:50
+Spirit:0
+Magic:0
+Attack:128
+Defense:80
+Accuracy Rate:200
+Evasion Rate:96
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:2
+Weight:0
+
+Lich
+BOSS
+HP:1200
+MP:0
+EXP Gained:2200
+Gil Dropped:3000
+Strength:0
+Vitality:0
+Agility:12
+Intelligence:30
+Spirit:0
+Magic:0
+Attack:40
+Defense:40
+Accuracy Rate:49
+Evasion Rate:24
+Magic Evasion Rate:120
+Critical Rate:1
+Luck:22
+Weight:0
+
+Lich
+BOSS
+HP:2800
+MP:0
+EXP Gained:2000
+Gil Dropped:1
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:34
+Spirit:0
+Magic:0
+Attack:50
+Defense:80
+Accuracy Rate:64
+Evasion Rate:48
+Magic Evasion Rate:140
+Critical Rate:1
+Luck:22
+Weight:0
+
+Marilith
+BOSS
+HP:1440
+MP:0
+EXP Gained:2475
+Gil Dropped:3000
+Strength:0
+Vitality:0
+Agility:24
+Intelligence:32
+Spirit:0
+Magic:0
+Attack:40
+Defense:50
+Accuracy Rate:63
+Evasion Rate:48
+Magic Evasion Rate:183
+Critical Rate:1
+Luck:22
+Weight:0
+
+Marilith
+BOSS
+HP:3200
+MP:0
+EXP Gained:2000
+Gil Dropped:1
+Strength:0
+Vitality:0
+Agility:30
+Intelligence:41
+Spirit:0
+Magic:0
+Attack:60
+Defense:80
+Accuracy Rate:63
+Evasion Rate:60
+Magic Evasion Rate:183
+Critical Rate:1
+Luck:22
+Weight:0
+
+Kraken
+BOSS
+HP:1800
+MP:0
+EXP Gained:4245
+Gil Dropped:5000
+Strength:0
+Vitality:0
+Agility:42
+Intelligence:32
+Spirit:0
+Magic:0
+Attack:50
+Defense:60
+Accuracy Rate:90
+Evasion Rate:84
+Magic Evasion Rate:160
+Critical Rate:1
+Luck:22
+Weight:0
+
+Kraken
+BOSS
+HP:3600
+MP:0
+EXP Gained:2000
+Gil Dropped:1
+Strength:0
+Vitality:0
+Agility:49
+Intelligence:41
+Spirit:0
+Magic:0
+Attack:60
+Defense:80
+Accuracy Rate:114
+Evasion Rate:98
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:22
+Weight:0
+
+Tiamat
+BOSS
+HP:2400
+MP:0
+EXP Gained:5496
+Gil Dropped:6000
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:45
+Spirit:0
+Magic:0
+Attack:53
+Defense:80
+Accuracy Rate:80
+Evasion Rate:72
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:22
+Weight:0
+
+Tiamat
+BOSS
+HP:5500
+MP:0
+EXP Gained:2000
+Gil Dropped:1
+Strength:0
+Vitality:0
+Agility:45
+Intelligence:38
+Spirit:0
+Magic:0
+Attack:75
+Defense:90
+Accuracy Rate:85
+Evasion Rate:90
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:22
+Weight:0
+
+Chaos
+BOSS
+HP:20000
+MP:0
+EXP Gained:0
+Gil Dropped:0
+Strength:0
+Vitality:0
+Agility:50
+Intelligence:40
+Spirit:0
+Magic:0
+Attack:170
+Defense:100
+Accuracy Rate:200
+Evasion Rate:100
+Magic Evasion Rate:200
+Critical Rate:1
+Luck:22
+Weight:0
+
+Vampire
+BOSS
+HP:280
+MP:0
+EXP Gained:1200
+Gil Dropped:2000
+Strength:0
+Vitality:0
+Agility:36
+Intelligence:26
+Spirit:0
+Magic:0
+Attack:76
+Defense:26
+Accuracy Rate:39
+Evasion Rate:72
+Magic Evasion Rate:75
+Critical Rate:1
+Luck:22
+Weight:0
+
