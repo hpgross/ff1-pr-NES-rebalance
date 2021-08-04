@@ -1,6 +1,25 @@
 In comparing this and monster.txt, the missing information from monster.txt is resistance attribute and condition, # of attacks, attack bonus, attack attribute, drop rate, drop content, and battle script type .
 MP is listed but meaningless.
 
+STATS TO CONSIDER WHEN MAKING COMPARISONS:
+hp
+exp
+gill
+attack_count
+attack
+defense
+accuracy_rate
+evasion_rate
+magic_evasion_rate
+critical_rate
+
+STATS WHICH MAY BE CHANGED LATER ONCE FUNCTION ANALYSIS HAS CONTINUED (didn't exist in NES)
+attack_plus (have compiled a list of enemies that get this, still unsure what it does, it's not a flat damage buff per hit)
+agility
+intelligence
+luck (normal enemies get 2, bosses get 22, this seems fine?)
+script_id (once battle scripts are looked into)
+
 Goblin
 Monster
 HP:8

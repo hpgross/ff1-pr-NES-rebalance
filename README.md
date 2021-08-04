@@ -6,7 +6,7 @@ The goal of this mod is to document the formulas used for both the Pixel Remaste
 Current ideas:
 
 - Original EXP/level curve COMPLETED
-- Monster stats
-- Attack/magic calculations closer to the original
-- Make Blind/Sleep worthwhile
-- Optionally disable sale of all healing items but Potion, Antidote, Gold Needle. Make potions only heal 30 HP.
+- Monster stats COMPLETE
+- Attack/magic calculations closer to the original TO DO
+- Make Blind/Sleep worthwhileTO DO
+- Optionally disable sale of all healing items but Potion, Antidote, Gold Needle. Make potions only heal 30 HP. TO DO
