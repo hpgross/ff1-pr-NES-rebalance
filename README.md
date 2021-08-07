@@ -27,10 +27,13 @@ COMPLETED
 
 TO DO
 
+- PRIORITY Change descriptions for Potion/Hi-Potion to reflect new healing rates
 - Attack/magic calculations closer to the original
 - Make Blind/Sleep worthwhile
 - Optionally disable sale of all healing items but Potion, Antidote, Gold Needle
 - Re-add monster scripts for their AI
+- Change ressurection prices at churches
+- Optionally change items in chests back to original contents
 
 Credits:
 
