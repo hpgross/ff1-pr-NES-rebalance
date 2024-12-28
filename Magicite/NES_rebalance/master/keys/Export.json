@@ -1,0 +1,20 @@
+{
+  "keys": [
+	"ability",
+	"armor",
+    "exp_table",
+    "growth_curve",
+    "item",
+    "monster",
+	"weapon"
+  ],
+  "values": [
+	"Assets/GameAssets/Serial/Data/Master/ability",
+	"Assets/GameAssets/Serial/Data/Master/armor",
+    "Assets/GameAssets/Serial/Data/Master/exp_table",
+    "Assets/GameAssets/Serial/Data/Master/growth_curve",
+    "Assets/GameAssets/Serial/Data/Master/item",
+    "Assets/GameAssets/Serial/Data/Master/monster",
+	"Assets/GameAssets/Serial/Data/Master/weapon"
+  ]
+}

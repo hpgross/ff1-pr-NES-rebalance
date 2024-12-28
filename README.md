@@ -16,6 +16,18 @@ Installation instructions:
 
 If you only want the character stat changes, and want to leave bosses as they were, do not include monster.csv. If you don't want the item price/healing changes, do not include item.csv, armor.csv, ability.csv, or weapon.csv.
 
+For Memoria Partial:
+
+1. Do all the steps above up to 6.
+2. Navigate to:  InstallDir\FINAL FANTASY_Data\StreamingAssets, create a Mods folder and paste the contents of the Memoria Partial folder inside.
+3. Launch the game again and the changes will be applied automatically
+
+For Magicite:
+
+1. Do all the steps above up to 6.
+2. Navigate to:  InstallDir\FINAL FANTASY_Data\StreamingAssets, create a Magicite folder and paste the contents of the Magicite folder inside.
+3. Launch the game again and the changes will be applied automatically
+
 Current plans:
 
 COMPLETED
