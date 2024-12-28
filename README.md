@@ -50,3 +50,4 @@ TO DO
 Credits:
 
 randyrobbinsmusic for the item price changes
+brazilrules for updating the mod for Memoria/Magicite usage
