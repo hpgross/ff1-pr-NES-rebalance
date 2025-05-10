@@ -1,32 +1,22 @@
 # ff1-pr-NES-rebalance
+
 A NES Rebalance Mod for FF1 Pixel Remaster
 
 The goal of this mod is to document the formulas used for both the Pixel Remaster and the NES releases, and to make a modification to make the former similar to the latter. In situations where game balance is off, I would consider Final Fantasy Restored as a guide towards what the goal should be.
 
+The main things this mod updates are the exp tables to match the old growth rates, and the growth curves to give spell charges at lower levels since you level up much more slowly. It also puts HP levels back to the NES levels.
+
+Note: Going forward this mod will require Magicite; the Memoria version is deprecated.
+
 Installation instructions:
 
-1. Download BepInEx Loader + FF# from: https://github.com/Albeoris/Memoria.FF1
+1. Download BepInEx Loader: <https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip> and Magicite: <https://github.com/Silvris/Magicite/releases/tag/v2.2.0>
 2. Extract to the root of your game install.
 3. Run your game + close it.
-4. Navigate to InstallDir\BepInEx\config and open Memoria.ffpr.cfg
-5. Set ExportEnabled = true
-6. Run your game again, wait a bit for extraction to complete then close it.
-7. Navigate to: InstallDir\FINAL FANTASY_Data\StreamingAssets\Assets\GameAssets\Serial\Data and paste the contents of NES_rebalance.7z inside.
-8. Launch the game again and the changes will be applied automatically
+4. Navigate to:  InstallDir\FINAL FANTASY_Data\StreamingAssets, create a Magicite folder and paste the contents of the Magicite folder inside.
+5. Launch the game again and the changes will be applied automatically
 
 If you only want the character stat changes, and want to leave bosses as they were, do not include monster.csv. If you don't want the item price/healing changes, do not include item.csv, armor.csv, ability.csv, or weapon.csv.
-
-For Memoria Partial:
-
-1. Do all the steps above up to 6.
-2. Navigate to:  InstallDir\FINAL FANTASY_Data\StreamingAssets, create a Mods folder and paste the contents of the Memoria Partial folder inside.
-3. Launch the game again and the changes will be applied automatically
-
-For Magicite:
-
-1. Do all the steps above up to 6.
-2. Navigate to:  InstallDir\FINAL FANTASY_Data\StreamingAssets, create a Magicite folder and paste the contents of the Magicite folder inside.
-3. Launch the game again and the changes will be applied automatically
 
 Current plans:
 
@@ -50,4 +40,5 @@ TO DO
 Credits:
 
 randyrobbinsmusic for the item price changes
-brazilrules for updating the mod for Memoria/Magicite usage
+brazilrules for updating the mod for Magicite usage
+gvdn for identifying a bug SE introduced in 1.20 and developing a fix
